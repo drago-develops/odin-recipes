@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1{
+    font-weight: 900;
+    color: rgb(136, 134, 1);
+}
+
+ul.no-bullets{
+    list-style-type: none;
+}
+li{
+    margin: 20px;
+    font-size: large;
+}
+a:hover {
+    background-color: yellow;
+  }
+a:active{
+    background-color: red;
+    color: black;
+}
